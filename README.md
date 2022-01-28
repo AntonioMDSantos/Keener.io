@@ -16,7 +16,7 @@ cd backend
 yarn dev
 ```
 
-### PARA RODAR JUNTO AO BANCO MYSQL É NECESSARIO CRIAR A TABELA *projeto* 
+### ```PARA RODAR JUNTO AO BANCO MYSQL É NECESSARIO CRIAR A TABELA *projeto* ```
 
 
 ### A aplicação foi testada no Insomnia, então irei demonstrar com imagens como foi feita tais procedimentos

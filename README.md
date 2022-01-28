@@ -16,7 +16,9 @@ cd backend
 yarn dev
 ```
 
-### ```diff -PARA RODAR JUNTO AO BANCO MYSQL É NECESSARIO CRIAR A TABELA projeto ```
+### ```diff 
+-PARA RODAR JUNTO AO BANCO MYSQL É NECESSARIO CRIAR A TABELA projeto 
+```
 
 ### A aplicação foi testada no Insomnia, então irei demonstrar com imagens como foi feita tais procedimentos
 ### Para o cadastro foi feito o "username" e o "password", quando é cadastrado, o usuario recebe o "success: true", caso nao for valido, o valor é false

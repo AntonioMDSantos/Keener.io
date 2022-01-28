@@ -38,7 +38,7 @@ yarn dev
 # Listagem de Usuarios: 
 ![image](https://user-images.githubusercontent.com/80727142/151606459-f4fbdaf3-0057-4e0f-a044-2fce0b3b0ab7.png)
 
-### Agora temos o delete que pelo id é encontrado o usuario e deletado do banco de dados, pode-se observar pela URL, que para deletar o id é necessario
+### Agora temos o delete que pelo id é encontrado o usuario e deletado do banco de dados, pode-se observar pela URL, que para deletar, o id é necessario
 
 # Deletar usuarios:
 ![image](https://user-images.githubusercontent.com/80727142/151606632-346c1d9d-979c-4e4d-bfc7-6201aeb12f82.png)
